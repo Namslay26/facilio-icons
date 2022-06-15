@@ -16,7 +16,7 @@ const SvgPrivacypolicy = ({ title, titleId, ...props }) => (
     <g id="Privacy_policy_svg__trim_area" data-name="trim area">
       <path
         className="Privacy_policy_svg__cls-1"
-        d="M99.94 60H43.87a4 4 0 1 1 0-8h56.07a4 4 0 0 1 0 8ZM120 92H43.87a4 4 0 1 1 0-8H120a4 4 0 0 1 0 8ZM99.94 124H43.87a4 4 0 1 1 0-8h56.07a4 4 0 0 1 0 8Z"
+        d="M99.94 60H43.87a4 4 0 1 1 0-8h56.07a4 4 0 0 1 0 8ZM120 92H43.87a4 4 0 1 1 0-8H120a4 4 0 0 1 0 8Zm-20.06 32H43.87a4 4 0 1 1 0-8h56.07a4 4 0 0 1 0 8Z"
       />
       <path
         d="M148 120a8.16 8.16 0 0 0-8.14 7.92h16.29A8.16 8.16 0 0 0 148 120Z"

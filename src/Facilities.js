@@ -16,7 +16,7 @@ const SvgFacilities = ({ title, titleId, ...props }) => (
     <g id="facilities_svg__trim_area" data-name="trim area">
       <path
         className="facilities_svg__cls-1"
-        d="M104.1 63.93H52a4 4 0 0 1 0-8h52.1a4 4 0 0 1 0 8ZM103.86 88.09h-52a4 4 0 0 1 0-8h52.05a4 4 0 0 1 0 8Z"
+        d="M104.1 63.93H52a4 4 0 0 1 0-8h52.1a4 4 0 0 1 0 8Zm-.24 24.16h-52a4 4 0 0 1 0-8h52.05a4 4 0 0 1 0 8Z"
       />
       <path
         className="facilities_svg__cls-1"

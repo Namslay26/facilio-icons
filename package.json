@@ -1,13 +1,17 @@
 {
-  "name": "facilio-icons",
+  "name": "facilio-icons-react",
   "version": "1.0.1",
   "description": "An icon library for facilio",
   "main": "index.js",
   "module": "dist/index.esm.js",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "prebuild": "rimraf src && rimraf dist",
-    "build": "npm run svgr && rollup -c",
+    "clean":"svgo -f ./assets -o ./assets",
+    "build":"npm run clean",
+    "postbuild": "npm run svgr && rollup -c",
     "svgr": "svgr --icon --title-prop -d src -- assets"
   },
   "keywords": [],
@@ -23,7 +27,8 @@
     "@rollup/plugin-node-resolve": "^13.3.0",
     "@svgr/cli": "^6.2.1",
     "rimraf": "^3.0.2",
-    "rollup": "^2.75.6"
+    "rollup": "^2.75.6",
+    "svgo": "^2.8.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.16.3"

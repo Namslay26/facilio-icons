@@ -16,7 +16,7 @@ const SvgDeliverymodule = ({ title, titleId, ...props }) => (
     <g id="Delivery_module_svg__trim_area" data-name="trim area">
       <path
         className="Delivery_module_svg__cls-1"
-        d="M36.15 28.21h20.08V40.4H36.15zM36.15 48.28h20.08v3.9H36.15zM36.15 56.33h20.08v3.9H36.15zM35.94 99.94h20.08v12.19H35.94zM35.94 120.01h20.08v3.9H35.94zM35.94 128.06h20.08v3.9H35.94zM128.1 88.13h20.08v12.19H128.1zM128.1 108.2h20.08v3.9H128.1zM128.1 116.25h20.08v3.9H128.1z"
+        d="M36.15 28.21h20.08V40.4H36.15zm0 20.07h20.08v3.9H36.15zm0 8.05h20.08v3.9H36.15zm-.21 43.61h20.08v12.19H35.94zm0 20.07h20.08v3.9H35.94zm0 8.05h20.08v3.9H35.94zm92.16-39.93h20.08v12.19H128.1zm0 20.07h20.08v3.9H128.1zm0 8.05h20.08v3.9H128.1z"
       />
       <path
         className="Delivery_module_svg__cls-1"

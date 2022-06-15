@@ -25,7 +25,7 @@ const SvgInductionTemp = ({ title, titleId, ...props }) => (
     <g id="Induction_Temp_svg__trim_area" data-name="trim area">
       <path
         className="Induction_Temp_svg__cls-3"
-        d="M92.19 55.62H36.12a4 4 0 0 1 0-8h56.07a4 4 0 0 1 0 8ZM112.23 87.62H36.12a4 4 0 0 1 0-8h76.11a4 4 0 1 1 0 8ZM92.19 119.62H36.12a4 4 0 0 1 0-8h56.07a4 4 0 0 1 0 8Z"
+        d="M92.19 55.62H36.12a4 4 0 0 1 0-8h56.07a4 4 0 0 1 0 8Zm20.04 32H36.12a4 4 0 0 1 0-8h76.11a4 4 0 1 1 0 8Zm-20.04 32H36.12a4 4 0 0 1 0-8h56.07a4 4 0 0 1 0 8Z"
       />
       <path
         className="Induction_Temp_svg__cls-3"

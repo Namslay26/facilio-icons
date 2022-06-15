@@ -16,7 +16,7 @@ const SvgInspection = ({ title, titleId, ...props }) => (
     <g id="Inspection_svg__trim_area" data-name="trim area">
       <path
         className="Inspection_svg__cls-1"
-        d="M99.94 60H43.87a4 4 0 1 1 0-8h56.07a4 4 0 0 1 0 8ZM100.49 108h-56.1a4 4 0 0 1 0-8h56.1a4 4 0 0 1 0 8ZM72.53 132h-28.1a4 4 0 0 1 0-8h28.1a4 4 0 1 1 0 8Z"
+        d="M99.94 60H43.87a4 4 0 1 1 0-8h56.07a4 4 0 0 1 0 8Zm.55 48h-56.1a4 4 0 0 1 0-8h56.1a4 4 0 0 1 0 8Zm-27.96 24h-28.1a4 4 0 0 1 0-8h28.1a4 4 0 1 1 0 8Z"
       />
       <path
         d="M148 120a8.16 8.16 0 0 0-8.14 7.92h16.29A8.16 8.16 0 0 0 148 120Z"
